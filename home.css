@@ -1,0 +1,38 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding-right: 50px;
+    width: auto;
+    height: 30px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+}
+.navbar a{
+    margin-left: 25px;
+    padding-top: 20px;
+    color:#D0B214;
+    text-decoration: none;
+}
+body{
+    background-color: black;
+}
+.container1{
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 20px;
+    color: #D0B214;
+    margin-top: 60px;
+    margin-left: 50px;
+}
+.name{
+    color: white;
+}
