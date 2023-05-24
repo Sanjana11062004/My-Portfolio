@@ -98,7 +98,7 @@ font-style: normal;
 font-weight: 700;
 font-size: 32px;
 line-height: 39px;
-color: #d9d9d9;
+color: rgb(146, 143, 143);
 }
 .cont2text{
 width: 700px;
@@ -187,4 +187,28 @@ color: #FFFFFF;
    display: flex;
    flex-direction: row;
    margin-top: 30px;
+}
+.contact{
+    width: 631px;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 58px;
+margin-left: 200px;
+color: #D0B214;
+margin-top: 120px;
+}
+.ctcontainer1{
+    display: flex;
+    flex-direction: row;
+    margin-left: 200px;
+    justify-content: space-between;
+    margin-bottom: 90px;
+}
+.ctsubcontainer{
+    display: flex;
+    flex-direction: column;
+    margin-left: 90px;
+    margin-right: 200px;
 }
