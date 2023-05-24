@@ -21,6 +21,7 @@
 }
 body{
     background-color: black;
+    font-family: 'Inter';
 }
 
 .container1{
@@ -134,7 +135,56 @@ width: 89px;
 height: 89px;
 }
 .line{
-    width: 1440px;
+ width: auto;
 height: 4px;
 background: #D0B214;
+
+}
+/*about me*/
+.aboutme{
+width: auto;
+height: 63px;
+text-align: center;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 52px;
+line-height: 63px;
+color: #D0B214;
+}
+.abcontainer1{
+display: flex;
+margin-top: 40px;
+justify-content: space-evenly;
+margin-left: 50px;
+margin-right: 100px;
+}
+.businesswomen{
+width: 400px;
+height: 350px;
+}
+.abtext1{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 48px;
+color: #FFFFFF;
+}
+.footer{
+    margin-left: 170px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    font-size: 15px;
+}
+.footcontainer{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 50px;
+}
+.abcontainer2{
+   display: flex;
+   flex-direction: row;
+   margin-top: 30px;
 }
