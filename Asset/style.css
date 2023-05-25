@@ -215,4 +215,8 @@ margin-top: 120px;
 .project{
     display: flex;
     flex-direction: row;
+    margin-top: 50px;
+    justify-content: space-between;
+    margin-right: 110px;
+
 }
