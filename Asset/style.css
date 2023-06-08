@@ -268,7 +268,9 @@ margin-left: 0%;
       text-align: center;
       margin-top: 20px;
     }
-    
+    .name{
+      line-height: 40px;
+    }
     .logo{
       display: none;
     }
