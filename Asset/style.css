@@ -140,6 +140,9 @@ height: 4px;
 background: #D0B214;
 
 }
+.textpaddleft{
+  padding-left: 450px;
+}
 /*about me*/
 .aboutme{
 width: auto;
@@ -188,6 +191,10 @@ color: #FFFFFF;
    flex-direction: row;
    margin-top: 30px;
 }
+.margin{
+  margin-left: 110px;
+  color: white;
+}
 .contact{
     width: 631px;
     font-family: 'Inter';
@@ -212,6 +219,9 @@ margin-top: 120px;
     margin-left: 90px;
     margin-right: 200px;
 }
+.marginpic{
+  margin-left: 110px;
+}
 .project{
     display: flex;
     flex-direction: row;
@@ -220,20 +230,33 @@ margin-top: 120px;
     margin-right: 110px;
 
 }
+.footer2{
+  margin-left: 750px;
+}
+.txt{
+  display: flex;
+  margin-left:30px;
+  color: rgb(146, 143, 143);
+  margin-left: 100px;
+}
 /* Mobile Layout */
-@media (max-width: 767px) {
+@media (max-width: 786px) {
     .navbar {
       justify-content: center;
       padding: 20px;
     }
-    
+    .body{
+      width: auto;
+    }
     .container1 {
       flex-direction: column;
       align-items: center;
       margin-top: 30px;
       margin-left: 0;
     }
-    
+.marginpic{
+margin-left: 0%;
+}
     .subcont1 {
       font-size: 48px;
       text-align: center;
@@ -246,6 +269,9 @@ margin-top: 120px;
       margin-top: 20px;
     }
     
+    .logo{
+      display: none;
+    }
     .photo {
       width: 300px;
       height: auto;
@@ -255,8 +281,9 @@ margin-top: 120px;
     .container2 {
       flex-direction: column;
       align-items: center;
-      margin-left: 0;
+      margin-left: 50px;
       margin-top: 30px;
+      justify-content: space-evenly;
     }
     
     .text {
@@ -267,29 +294,49 @@ margin-top: 120px;
     .subheading {
       margin-top: 30px;
       font-size: 24px;
-      text-align: center;
+      text-align: start;
     }
-    
+    .margin{
+      margin-left: 0%;
+    }
     .marginleft {
       margin-left: 0;
     }
-    
+    .mobmar{
+      margin-left: 50px;
+    }
+    .marcon{
+      margin-left: 100px;
+    }
+    .aligntext{
+      margin-left: 100px;
+      justify-content: center;
+    }
+    .align{
+      justify-content: start;
+    }
+    .mob{
+      padding-left: 100px;
+    }
     .container3 {
       display: flex;
-      flex-direction: column;
-      align-items: center;
-      margin-left: 0;
+      flex-direction: row;
+      justify-content: flex-end;
+      margin-left: 60px;
     }
-    
     .image {
       width: 25px;
       height: 25px;
     }
-    
+    .martop{
+      margin-top: 20px;
+    }
     .project {
       flex-direction: column;
       align-items: center;
       margin-top: 30px;
+      justify-content: center;
+      margin-left: 150px;
     }
     
     .aboutme {
@@ -299,10 +346,22 @@ margin-top: 120px;
     
     .line {
       margin-top: 30px;
+      width: 800px;
     }
     
     .footer {
-      flex-direction: column;
+      flex-direction: row;
       align-items: center;
-    }
+      justify-content: space-evenly;
+      zoom: 40%;
   }
+    .footer2{
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      margin-left: 0%;
+    }
+    .txt{
+      margin-left: 0px;
+    }
+}
