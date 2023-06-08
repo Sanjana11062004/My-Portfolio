@@ -253,6 +253,7 @@ margin-top: 120px;
       align-items: center;
       margin-top: 30px;
       margin-left: 0;
+      justify-content: flex-start;
     }
 .marginpic{
 margin-left: 0%;
