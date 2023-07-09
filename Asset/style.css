@@ -228,7 +228,9 @@ margin-top: 120px;
     margin-top: 50px;
     justify-content: space-between;
     margin-right: 110px;
-
+}
+a.ex1:hover, a.ex1:active {
+  color: red;
 }
 .footer2{
   display: flex;
