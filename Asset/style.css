@@ -231,13 +231,18 @@ margin-top: 120px;
 
 }
 .footer2{
-  margin-left: 750px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
 }
 .txt{
   display: flex;
   margin-left:30px;
   color: rgb(146, 143, 143);
   margin-left: 100px;
+}
+.align{
+  margin: 0 auto;;
 }
 /* Mobile Layout */
 @media (max-width: 786px) {
