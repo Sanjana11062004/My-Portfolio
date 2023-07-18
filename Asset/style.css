@@ -267,6 +267,7 @@ body{
 li{
   list-style: none;
   color: #D0B214;
+  font-size: 18px;
 }
 ul{
   display: flex;
