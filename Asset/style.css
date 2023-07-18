@@ -267,12 +267,11 @@ body{
 li{
   list-style: none;
   color: #D0B214;
-  
 }
 ul{
   display: flex;
   flex-direction: row;
-  gap: 12px;
+  gap: 16px;
   justify-content: flex-end;
   padding-right: 20px;
 }
