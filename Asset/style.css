@@ -12,7 +12,7 @@
     line-height: 24px;
     display: flex;
     align-items: center;
-}
+}/*
 .navbar a{
     margin-left: 25px;
     padding-top: 20px;
@@ -138,7 +138,7 @@ height: 89px;
 .textpaddleft{
   padding-left: 450px;
 }
-/*about me*/
+/*about me
 .aboutme{
 width: auto;
 height: 63px;
@@ -247,7 +247,7 @@ hr{
   border: none;
 }
 /* Mobile Layout */
-li{
+/*li{
   list-style: none;
   color: #D0B214;
 }
@@ -492,4 +492,4 @@ padding-left: 450px;
   flex-direction: row;
   flex-wrap: wrap;
   
-}
+}*/
