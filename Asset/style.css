@@ -498,7 +498,7 @@ padding-left: 450px;
   flex-wrap: wrap;
 }
 .icon{
-  color: white; margin:0%; margin-left: 30px; margin-top: 6px; font-size: 22px;
+  color: white; margin:0%; margin-left: 30px; margin-top: 6px; font-size: 10px;
 }
 
 @media only screen and (min-width: 1020px) {
@@ -571,9 +571,9 @@ padding-left: 450px;
   margin-left: 80px;
 }
 .imagescon {
-  flex-direction: row;
   width: 80%;
   margin: 0px auto;
+  flex-direction: row;
   justify-content: space-between;
 }
 .imgg{
