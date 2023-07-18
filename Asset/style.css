@@ -271,7 +271,7 @@ li{
 ul{
   display: flex;
   flex-direction: row;
-  gap: 16px;
+  gap: 17px;
   justify-content: flex-end;
   padding-right: 20px;
 }
