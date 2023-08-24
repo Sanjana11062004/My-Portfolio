@@ -10,6 +10,7 @@ https://my-portfolio-o16s.vercel.app/
 ![image](https://github.com/Sanjana11062004/My-Portfolio/assets/112110461/0f8c05f8-04c1-4ee6-9fe9-b35dd6ab6c35)
 
 Mobile mode:
+
 ![WhatsApp Image 2023-08-24 at 19 31 25](https://github.com/Sanjana11062004/My-Portfolio/assets/112110461/a2c2660d-64e1-424b-a14d-67173e33b6b6)
 ![WhatsApp Image 2023-08-24 at 19 31 25](https://github.com/Sanjana11062004/My-Portfolio/assets/112110461/f0965628-ba60-4f85-95e0-f3bb5687d56d)
 ![WhatsApp Image 2023-08-24 at 19 31 26](https://github.com/Sanjana11062004/My-Portfolio/assets/112110461/17c9a134-9d48-45d6-be80-86e3d32f3702)
