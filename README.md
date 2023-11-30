@@ -1,5 +1,7 @@
 # My-Portfolio
 
+This project is all about the portfolio that includes the information about me!
+It includes all my skills and knowledge.
 Check the output here!
 https://my-portfolio-o16s.vercel.app/
 ![portfolio1](https://github.com/Sanjana11062004/My-Portfolio/assets/112110461/b864f6a8-8d76-4f6f-bb76-32d3a9f9d18d)
